@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "app.html",
+    "currentPage": "social.html",
     "name": "FUN FM WARTUNG",
     "theme": {
       "name": "mobirise3",
@@ -15,9 +15,9 @@
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
+        "isScrollToTopButton": true,
         "isRtl": false
       }
     },
@@ -599,12 +599,12 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-r",
           "_params": {
-            "imageSize": "56",
+            "imageSize": "62",
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/poster6-2000x1125.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -614,7 +614,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
+            "inverse": true,
             "showTitle": true,
             "showText": true,
             "showButtons": false
@@ -646,14 +646,14 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_styles": {
             "H3": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             "P": {
               "color": "#ffffff",
-              "text-align": "center",
-              "font-size": "19px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "text-align": "right",
+              "font-size": "20px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           }
         }
